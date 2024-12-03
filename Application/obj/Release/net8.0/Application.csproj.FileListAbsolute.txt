@@ -1,0 +1,17 @@
+C:\_PROJ_VISUALSTUDIO\_WEB\WebApiDDD_new\DDDWebApp\Application\bin\Release\net8.0\Application.deps.json
+C:\_PROJ_VISUALSTUDIO\_WEB\WebApiDDD_new\DDDWebApp\Application\bin\Release\net8.0\Application.dll
+C:\_PROJ_VISUALSTUDIO\_WEB\WebApiDDD_new\DDDWebApp\Application\bin\Release\net8.0\Application.pdb
+C:\_PROJ_VISUALSTUDIO\_WEB\WebApiDDD_new\DDDWebApp\Application\bin\Release\net8.0\Domain.dll
+C:\_PROJ_VISUALSTUDIO\_WEB\WebApiDDD_new\DDDWebApp\Application\bin\Release\net8.0\Infrastructure.dll
+C:\_PROJ_VISUALSTUDIO\_WEB\WebApiDDD_new\DDDWebApp\Application\bin\Release\net8.0\Domain.pdb
+C:\_PROJ_VISUALSTUDIO\_WEB\WebApiDDD_new\DDDWebApp\Application\bin\Release\net8.0\Infrastructure.pdb
+C:\_PROJ_VISUALSTUDIO\_WEB\WebApiDDD_new\DDDWebApp\Application\obj\Release\net8.0\Application.csproj.AssemblyReference.cache
+C:\_PROJ_VISUALSTUDIO\_WEB\WebApiDDD_new\DDDWebApp\Application\obj\Release\net8.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\_PROJ_VISUALSTUDIO\_WEB\WebApiDDD_new\DDDWebApp\Application\obj\Release\net8.0\Application.AssemblyInfoInputs.cache
+C:\_PROJ_VISUALSTUDIO\_WEB\WebApiDDD_new\DDDWebApp\Application\obj\Release\net8.0\Application.AssemblyInfo.cs
+C:\_PROJ_VISUALSTUDIO\_WEB\WebApiDDD_new\DDDWebApp\Application\obj\Release\net8.0\Application.csproj.CoreCompileInputs.cache
+C:\_PROJ_VISUALSTUDIO\_WEB\WebApiDDD_new\DDDWebApp\Application\obj\Release\net8.0\Applicat.44B5EDA2.Up2Date
+C:\_PROJ_VISUALSTUDIO\_WEB\WebApiDDD_new\DDDWebApp\Application\obj\Release\net8.0\Application.dll
+C:\_PROJ_VISUALSTUDIO\_WEB\WebApiDDD_new\DDDWebApp\Application\obj\Release\net8.0\refint\Application.dll
+C:\_PROJ_VISUALSTUDIO\_WEB\WebApiDDD_new\DDDWebApp\Application\obj\Release\net8.0\Application.pdb
+C:\_PROJ_VISUALSTUDIO\_WEB\WebApiDDD_new\DDDWebApp\Application\obj\Release\net8.0\ref\Application.dll
