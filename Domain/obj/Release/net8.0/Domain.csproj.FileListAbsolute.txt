@@ -10,3 +10,4 @@ C:\_PROJ_VISUALSTUDIO\_WEB\WebApiDDD_new\DDDWebApp\Domain\obj\Release\net8.0\Dom
 C:\_PROJ_VISUALSTUDIO\_WEB\WebApiDDD_new\DDDWebApp\Domain\obj\Release\net8.0\refint\Domain.dll
 C:\_PROJ_VISUALSTUDIO\_WEB\WebApiDDD_new\DDDWebApp\Domain\obj\Release\net8.0\Domain.pdb
 C:\_PROJ_VISUALSTUDIO\_WEB\WebApiDDD_new\DDDWebApp\Domain\obj\Release\net8.0\ref\Domain.dll
+C:\_PROJ_VISUALSTUDIO\_WEB\WebApiDDD_new\DDDWebApp\Domain\obj\Release\net8.0\Domain.sourcelink.json

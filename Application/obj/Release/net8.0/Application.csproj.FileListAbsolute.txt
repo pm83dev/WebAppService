@@ -15,3 +15,4 @@ C:\_PROJ_VISUALSTUDIO\_WEB\WebApiDDD_new\DDDWebApp\Application\obj\Release\net8.
 C:\_PROJ_VISUALSTUDIO\_WEB\WebApiDDD_new\DDDWebApp\Application\obj\Release\net8.0\refint\Application.dll
 C:\_PROJ_VISUALSTUDIO\_WEB\WebApiDDD_new\DDDWebApp\Application\obj\Release\net8.0\Application.pdb
 C:\_PROJ_VISUALSTUDIO\_WEB\WebApiDDD_new\DDDWebApp\Application\obj\Release\net8.0\ref\Application.dll
+C:\_PROJ_VISUALSTUDIO\_WEB\WebApiDDD_new\DDDWebApp\Application\obj\Release\net8.0\Application.sourcelink.json

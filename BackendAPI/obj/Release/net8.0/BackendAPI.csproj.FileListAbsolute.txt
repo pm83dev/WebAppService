@@ -144,3 +144,4 @@ C:\_PROJ_VISUALSTUDIO\_WEB\WebApiDDD_new\DDDWebApp\BackendAPI\obj\Release\net8.0
 C:\_PROJ_VISUALSTUDIO\_WEB\WebApiDDD_new\DDDWebApp\BackendAPI\obj\Release\net8.0\BackendAPI.pdb
 C:\_PROJ_VISUALSTUDIO\_WEB\WebApiDDD_new\DDDWebApp\BackendAPI\obj\Release\net8.0\BackendAPI.genruntimeconfig.cache
 C:\_PROJ_VISUALSTUDIO\_WEB\WebApiDDD_new\DDDWebApp\BackendAPI\obj\Release\net8.0\ref\BackendAPI.dll
+C:\_PROJ_VISUALSTUDIO\_WEB\WebApiDDD_new\DDDWebApp\BackendAPI\obj\Release\net8.0\BackendAPI.sourcelink.json
